@@ -1,8 +1,6 @@
 export let menuItems = [
-  "Remote Work",
-  "Group Trips",
-  "Custom Trips",
+  "Group",
+  "Custom",
   "Reviews",
   "FAQ",
-  "About"
 ];
