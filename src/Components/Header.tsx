@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { menuItems } from '../data/menu'
 import { Routes, Route, Link } from 'react-router-dom'
 import Home from '../pages/Home'
