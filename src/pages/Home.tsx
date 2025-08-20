@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { destinations } from '../data/destination';
 import { TypeAnimation } from 'react-type-animation';
 

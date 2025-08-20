@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { faqs } from '../data/groupdata';
 function Faq() {
   return (

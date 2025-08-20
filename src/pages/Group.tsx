@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { groupTrips } from '../data/groupdata';
 
 function Group() {
